@@ -9,7 +9,7 @@ CSV File : https://www.kaggle.com/datasets/aungpyaeap/supermarket-sales
 
 Solutions Notebook - https://www.kaggle.com/code/barirahzainal/my-project-supermarket-sales-2
 
-Explaination : https://medium.com/@barirahzainalabidin/insights-and-recommendations-from-the-supermarket-sales-analysis-30c1f56bc726
+
 
 
 # 2. Trip Advisor Hotel Reviews
@@ -18,7 +18,6 @@ CSV File : https://www.kaggle.com/datasets/andrewmvd/trip-advisor-hotel-reviews
 
 Solutions Notebook : https://www.kaggle.com/code/barirahzainal/my-project-trip-advisor-hotel-reviews
 
-Explaination : https://medium.com/@barirahzainalabidin/trip-advisor-hotel-reviews-analysis-482502cb0e9b
 
 
 # 3. Women's E-Commerce Clothing Reviews
@@ -27,7 +26,7 @@ CSV File : https://www.kaggle.com/datasets/nicapotato/womens-ecommerce-clothing-
 
 Solutions Notebook : https://www.kaggle.com/code/barirahzainal/my-project-women-s-e-commerce-clothing-reviews
 
-Explaination :
+
 
 
 # 4. Credit Card customers
@@ -37,7 +36,6 @@ CSV File : https://www.kaggle.com/datasets/sakshigoyal7/credit-card-customers
 
 Solutions Notebook : https://www.kaggle.com/code/barirahzainal/my-project-credit-card-customers
 
-Explaination :
 
 
 
@@ -48,7 +46,6 @@ CSV File : https://www.kaggle.com/datasets/snap/amazon-fine-food-reviews
 
 Solutions Notebook : https://www.kaggle.com/code/barirahzainal/my-project-amazon-fine-food-reviews
 
-Explaination :
 
 
 # 6. Hotel booking demand
@@ -58,7 +55,7 @@ CSV File : https://www.kaggle.com/datasets/jessemostipak/hotel-booking-demand
 
 Solutions Notebook : https://www.kaggle.com/code/barirahzainal/my-project-hotel-booking-demand
 
-Explaination :
+
 
 
 
@@ -69,7 +66,7 @@ CSV File : https://www.kaggle.com/datasets/pavansubhasht/ibm-hr-analytics-attrit
 
 Solutions Notebook : https://www.kaggle.com/code/barirahzainal/my-project-ibm-hr-analytics-employee-attrition
 
-Explaination :
+
 
 
 
@@ -80,7 +77,7 @@ CSV File : https://www.kaggle.com/datasets/mirichoi0218/insurance
 
 Solutions Notebook : https://www.kaggle.com/code/barirahzainal/my-project-medical-cost-personal
 
-Explaination :
+
 
 
 
@@ -91,7 +88,7 @@ CSV File : https://www.kaggle.com/datasets/blastchar/telco-customer-churn
 
 Solutions Notebook : https://www.kaggle.com/code/barirahzainal/my-project-telco-customer-churn
 
-Explaination :
+
 
 
 
@@ -102,7 +99,6 @@ CSV File : https://www.kaggle.com/datasets/dgomonov/new-york-city-airbnb-open-da
 
 Solutions Notebook : https://www.kaggle.com/code/barirahzainal/my-project-new-york-city-airbnb-open-data
 
-Explaination :
 
 
 
@@ -113,7 +109,6 @@ CSV File : https://www.kaggle.com/datasets/lava18/google-play-store-apps
 
 Solutions Notebook : https://www.kaggle.com/code/barirahzainal/my-project-google-play-store-apps
 
-Explaination :
 
 
 # 12. Credit Card Fraud Detection
@@ -123,4 +118,11 @@ CSV File : https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud
 
 Solutions Notebook : https://www.kaggle.com/code/barirahzainal/my-project-credit-card-fraud-detection-2
 
-Explaination :
+
+# 13. Mall Customer Segmentation Data
+
+
+CSV File : https://www.kaggle.com/datasets/vjchoudhary7/customer-segmentation-tutorial-in-python
+
+Solutions Notebook : https://www.kaggle.com/code/barirahzainal/data-analysis-mall-customer-segmentation-data
+
