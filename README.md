@@ -3,6 +3,9 @@
 This Data Analysis using DataPrep AI 
 
 
+# A) Business & Marketing
+
+
 # 1. Supermarket sales
 
 CSV File : https://www.kaggle.com/datasets/aungpyaeap/supermarket-sales
