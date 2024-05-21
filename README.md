@@ -129,3 +129,238 @@ CSV File : https://www.kaggle.com/datasets/vjchoudhary7/customer-segmentation-tu
 
 Solutions Notebook : https://www.kaggle.com/code/barirahzainal/data-analysis-mall-customer-segmentation-data
 
+
+# 14 . eCommerce Events History in Cosmetics Shop
+
+
+CSV File : https://www.kaggle.com/datasets/mkechinov/ecommerce-events-history-in-cosmetics-shop?select=2020-Feb.csv
+
+Solutions Notebook : 
+
+
+
+# 15. BigBasket Entire Product List (~28K datapoints)
+
+
+CSV File : https://www.kaggle.com/datasets/surajjha101/bigbasket-entire-product-list-28k-datapoints
+
+Solutions Notebook : 
+
+
+
+# 16. Sales Conversion Optimization
+
+
+CSV File : https://www.kaggle.com/datasets/loveall/clicks-conversion-tracking
+
+Solutions Notebook : 
+
+
+# 17. Employee Attrition
+
+
+CSV File : https://www.kaggle.com/datasets/HRAnalyticRepository/employee-attrition-data
+
+Solutions Notebook : 
+
+
+# 18. Turkish Market Sales Dataset With 9.000+Items
+
+CSV File : https://www.kaggle.com/datasets/omercolakoglu/turkish-market-sales-dataset-with-9000items 
+
+Solutions Notebook : 
+
+
+# 19. Data Professionals Salary - 2022
+
+
+CSV File : https://www.kaggle.com/datasets/iamsouravbanerjee/analytics-industry-salaries-2022-india
+
+Solutions Notebook : 
+
+
+
+# 20. Banking Dataset - Marketing Targets
+
+CSV File : https://www.kaggle.com/datasets/prakharrathi25/banking-dataset-marketing-targets
+
+Solutions Notebook : 
+
+
+
+# 21. NIFTY-50 Stocks Dataset
+
+
+CSV File : https://www.kaggle.com/datasets/iamsouravbanerjee/nifty50-stocks-dataset
+
+Solutions Notebook : 
+
+
+
+# 22. Marketing Campaign
+
+
+CSV File : https://www.kaggle.com/datasets/rodsaldanha/arketing-campaign
+
+Solutions Notebook : 
+
+
+
+# 23. AMEX, NYSE, NASDAQ stock histories
+
+
+CSV File : https://www.kaggle.com/datasets/qks1lver/amex-nyse-nasdaq-stock-histories
+
+Solutions Notebook : 
+
+
+# 24. E-Commerce Sales Dataset
+
+
+CSV File : https://www.kaggle.com/datasets/thedevastator/unlock-profits-with-e-commerce-sales-data
+
+Solutions Notebook : 
+
+
+
+# 25. Restaurant Business Rankings 2020
+
+
+CSV File : https://www.kaggle.com/datasets/michau96/restaurant-business-rankings-2020
+
+Solutions Notebook : 
+
+
+
+# 26. Bank Marketing Dataset
+
+
+CSV File : https://www.kaggle.com/datasets/janiobachmann/bank-marketing-dataset
+
+Solutions Notebook : 
+
+
+
+# 27. Marketing Analytics
+
+CSV File : https://www.kaggle.com/datasets/jackdaoud/marketing-data
+
+Solutions Notebook : 
+
+
+
+# 28. eCommerce behavior data from multi category store
+
+
+CSV File : https://www.kaggle.com/datasets/mkechinov/ecommerce-behavior-data-from-multi-category-store
+
+Solutions Notebook : 
+
+
+
+# 29. Google Analytics Sample
+
+
+CSV File : https://www.kaggle.com/datasets/bigquery/google-analytics-sample
+
+Solutions Notebook : 
+
+
+# 29. Consumer Behavior and Shopping Habits Dataset:
+
+CSV File : https://www.kaggle.com/datasets/zeesolver/consumer-behavior-and-shopping-habits-dataset
+
+Solutions Notebook : 
+
+
+
+# 30. Dunnhumby - The Complete Journey
+
+
+CSV File : https://www.kaggle.com/datasets/frtgnn/dunnhumby-the-complete-journey
+
+Solutions Notebook : 
+
+
+
+# 31. Bank marketing campaigns dataset | Opening Deposit
+
+
+CSV File : https://www.kaggle.com/datasets/volodymyrgavrysh/bank-marketing-campaigns-dataset
+
+Solutions Notebook : 
+
+
+# 32. Social Media Influencers in 2022
+
+Csv File - https://www.kaggle.com/datasets/ramjasmaurya/top-1000-social-media-channels
+
+Solutions Notebook : 
+
+
+# 33. Bank_Loan_modelling
+
+Csv File - https://www.kaggle.com/datasets/itsmesunil/bank-loan-modelling
+
+Solutions Notebook :  
+
+
+
+# 34. Flight Status Prediction
+
+
+Csv File - https://www.kaggle.com/datasets/robikscube/flight-delay-dataset-20182022
+
+Solutions Notebook : 
+
+
+
+# 35.
+
+
+Csv File - 
+
+Solutions Notebook : 
+
+
+
+# 36.
+
+
+Csv File - 
+
+Solutions Notebook : 
+
+
+# 37.
+
+
+Csv File - 
+
+Solutions Notebook : 
+
+
+
+# 38.
+
+
+Csv File - 
+
+Solutions Notebook : 
+
+
+
+# 39.
+
+
+Csv File - 
+
+Solutions Notebook : 
+
+
+
+# 40.
+
+Csv File - 
+
+Solutions Notebook : 
