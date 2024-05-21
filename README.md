@@ -135,7 +135,7 @@ Solutions Notebook : https://www.kaggle.com/code/barirahzainal/data-analysis-mal
 
 CSV File : https://www.kaggle.com/datasets/mkechinov/ecommerce-events-history-in-cosmetics-shop?select=2020-Feb.csv
 
-Solutions Notebook : 
+Solutions Notebook : https://www.kaggle.com/code/barirahzainal/data-analysis1-ecommerce-events-history-cosmetic
 
 
 
@@ -144,7 +144,7 @@ Solutions Notebook :
 
 CSV File : https://www.kaggle.com/datasets/surajjha101/bigbasket-entire-product-list-28k-datapoints
 
-Solutions Notebook : 
+Solutions Notebook : https://www.kaggle.com/code/barirahzainal/bigbasket-entire-product-list
 
 
 
@@ -153,7 +153,7 @@ Solutions Notebook :
 
 CSV File : https://www.kaggle.com/datasets/loveall/clicks-conversion-tracking
 
-Solutions Notebook : 
+Solutions Notebook : https://www.kaggle.com/code/barirahzainal/sales-conversion-optimization
 
 
 # 17. Employee Attrition
@@ -161,14 +161,14 @@ Solutions Notebook :
 
 CSV File : https://www.kaggle.com/datasets/HRAnalyticRepository/employee-attrition-data
 
-Solutions Notebook : 
+Solutions Notebook : https://www.kaggle.com/code/barirahzainal/employee-attrition
 
 
 # 18. Turkish Market Sales Dataset With 9.000+Items
 
 CSV File : https://www.kaggle.com/datasets/omercolakoglu/turkish-market-sales-dataset-with-9000items 
 
-Solutions Notebook : 
+Solutions Notebook : https://www.kaggle.com/code/barirahzainal/turkish-market-sales
 
 
 # 19. Data Professionals Salary - 2022
