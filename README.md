@@ -176,13 +176,13 @@ Solutions Notebook : https://www.kaggle.com/code/barirahzainal/turkish-market-sa
 
 CSV File : https://www.kaggle.com/datasets/iamsouravbanerjee/analytics-industry-salaries-2022-india
 
-Solutions Notebook : 
+Solutions Notebook : https://www.kaggle.com/code/barirahzainal/my-project-data-professionals-salary-2022
 
 
 
-# 20. Banking Dataset - Marketing Targets
+# 20. 
 
-CSV File : https://www.kaggle.com/datasets/prakharrathi25/banking-dataset-marketing-targets
+CSV File : 
 
 Solutions Notebook : 
 
@@ -193,14 +193,14 @@ Solutions Notebook :
 
 CSV File : https://www.kaggle.com/datasets/iamsouravbanerjee/nifty50-stocks-dataset
 
-Solutions Notebook : 
+Solutions Notebook : https://www.kaggle.com/code/barirahzainal/my-project-nifty-50-stocks
 
 
 
-# 22. Marketing Campaign
+# 22. 
 
 
-CSV File : https://www.kaggle.com/datasets/rodsaldanha/arketing-campaign
+CSV File : 
 
 Solutions Notebook : 
 
@@ -211,7 +211,7 @@ Solutions Notebook :
 
 CSV File : https://www.kaggle.com/datasets/qks1lver/amex-nyse-nasdaq-stock-histories
 
-Solutions Notebook : 
+Solutions Notebook : https://www.kaggle.com/code/barirahzainal/my-project-amex-nyse-nasdaq-stock
 
 
 # 24. E-Commerce Sales Dataset
@@ -219,7 +219,7 @@ Solutions Notebook :
 
 CSV File : https://www.kaggle.com/datasets/thedevastator/unlock-profits-with-e-commerce-sales-data
 
-Solutions Notebook : 
+Solutions Notebook : https://www.kaggle.com/barirahzainal/code?orderBy=dateCreated
 
 
 
@@ -228,14 +228,14 @@ Solutions Notebook :
 
 CSV File : https://www.kaggle.com/datasets/michau96/restaurant-business-rankings-2020
 
-Solutions Notebook : 
+Solutions Notebook : https://www.kaggle.com/code/barirahzainal/my-project-restaurant-business-rankings-2020
 
 
 
-# 26. Bank Marketing Dataset
+# 26. 
 
 
-CSV File : https://www.kaggle.com/datasets/janiobachmann/bank-marketing-dataset
+CSV File : 
 
 Solutions Notebook : 
 
@@ -321,135 +321,5 @@ Solutions Notebook :
 Csv File - 
 
 Solutions Notebook : 
-
-
-
-# 36.
-
-
-Csv File - 
-
-Solutions Notebook : 
-
-
-# 37.
-
-
-Csv File - 
-
-Solutions Notebook : 
-
-
-
-# 38.
-
-
-Csv File - 
-
-Solutions Notebook : 
-
-
-
-# 39.
-
-
-Csv File - 
-
-Solutions Notebook : 
-
-
-
-# 40.
-
-Csv File - 
-
-Solutions Notebook : 
-
-
-
-# 41.
-
-Csv File - 
-
-Solutions Notebook : 
-
-
-
-# 42.
-
-Csv File - 
-
-Solutions Notebook : 
-
-
-
-# 43.
-
-Csv File - 
-
-Solutions Notebook : 
-
-
-
-# 44.
-
-Csv File - 
-
-Solutions Notebook : 
-
-
-
-# 45.
-
-Csv File - 
-
-Solutions Notebook : 
-
-
-
-# 46.
-
-Csv File - 
-
-Solutions Notebook : 
-
-
-
-# 47.
-
-Csv File - 
-
-Solutions Notebook : 
-
-
-
-# 48.
-
-Csv File - 
-
-Solutions Notebook : 
-
-
-
-# 49.
-
-Csv File - 
-
-Solutions Notebook : 
-
-
-
-# 50.
-
-Csv File - 
-
-Solutions Notebook : 
-
-
-
-
-
-
-
 
 
