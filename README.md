@@ -179,16 +179,7 @@ CSV File : https://www.kaggle.com/datasets/iamsouravbanerjee/analytics-industry-
 Solutions Notebook : https://www.kaggle.com/code/barirahzainal/my-project-data-professionals-salary-2022
 
 
-
-# 20. 
-
-CSV File : 
-
-Solutions Notebook : 
-
-
-
-# 21. NIFTY-50 Stocks Dataset
+# 20. NIFTY-50 Stocks Dataset
 
 
 CSV File : https://www.kaggle.com/datasets/iamsouravbanerjee/nifty50-stocks-dataset
@@ -197,16 +188,7 @@ Solutions Notebook : https://www.kaggle.com/code/barirahzainal/my-project-nifty-
 
 
 
-# 22. 
-
-
-CSV File : 
-
-Solutions Notebook : 
-
-
-
-# 23. AMEX, NYSE, NASDAQ stock histories
+# 21. AMEX, NYSE, NASDAQ stock histories
 
 
 CSV File : https://www.kaggle.com/datasets/qks1lver/amex-nyse-nasdaq-stock-histories
@@ -214,7 +196,7 @@ CSV File : https://www.kaggle.com/datasets/qks1lver/amex-nyse-nasdaq-stock-histo
 Solutions Notebook : https://www.kaggle.com/code/barirahzainal/my-project-amex-nyse-nasdaq-stock
 
 
-# 24. E-Commerce Sales Dataset
+# 22. E-Commerce Sales Dataset
 
 
 CSV File : https://www.kaggle.com/datasets/thedevastator/unlock-profits-with-e-commerce-sales-data
@@ -223,103 +205,9 @@ Solutions Notebook : https://www.kaggle.com/barirahzainal/code?orderBy=dateCreat
 
 
 
-# 25. Restaurant Business Rankings 2020
+# 23. Restaurant Business Rankings 2020
 
 
 CSV File : https://www.kaggle.com/datasets/michau96/restaurant-business-rankings-2020
 
 Solutions Notebook : https://www.kaggle.com/code/barirahzainal/my-project-restaurant-business-rankings-2020
-
-
-
-# 26. 
-
-
-CSV File : 
-
-Solutions Notebook : 
-
-
-
-# 27. Marketing Analytics
-
-CSV File : https://www.kaggle.com/datasets/jackdaoud/marketing-data
-
-Solutions Notebook : 
-
-
-
-# 28. eCommerce behavior data from multi category store
-
-
-CSV File : https://www.kaggle.com/datasets/mkechinov/ecommerce-behavior-data-from-multi-category-store
-
-Solutions Notebook : 
-
-
-
-# 29. Google Analytics Sample
-
-
-CSV File : https://www.kaggle.com/datasets/bigquery/google-analytics-sample
-
-Solutions Notebook : 
-
-
-# 29. Consumer Behavior and Shopping Habits Dataset:
-
-CSV File : https://www.kaggle.com/datasets/zeesolver/consumer-behavior-and-shopping-habits-dataset
-
-Solutions Notebook : 
-
-
-
-# 30. Dunnhumby - The Complete Journey
-
-
-CSV File : https://www.kaggle.com/datasets/frtgnn/dunnhumby-the-complete-journey
-
-Solutions Notebook : 
-
-
-
-# 31. Bank marketing campaigns dataset | Opening Deposit
-
-
-CSV File : https://www.kaggle.com/datasets/volodymyrgavrysh/bank-marketing-campaigns-dataset
-
-Solutions Notebook : 
-
-
-# 32. Social Media Influencers in 2022
-
-Csv File - https://www.kaggle.com/datasets/ramjasmaurya/top-1000-social-media-channels
-
-Solutions Notebook : 
-
-
-# 33. Bank_Loan_modelling
-
-Csv File - https://www.kaggle.com/datasets/itsmesunil/bank-loan-modelling
-
-Solutions Notebook :  
-
-
-
-# 34. Flight Status Prediction
-
-
-Csv File - https://www.kaggle.com/datasets/robikscube/flight-delay-dataset-20182022
-
-Solutions Notebook : 
-
-
-
-# 35.
-
-
-Csv File - 
-
-Solutions Notebook : 
-
-
